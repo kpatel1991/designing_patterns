@@ -1,7 +1,5 @@
 package Singleton;
 
-import javax.sound.midi.Soundbank;
-
 class MakeCaptain {
     private static MakeCaptain _captain;
 

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProxyPatternMain",
+            "request": "launch",
+            "mainClass": "Proxy.ProxyPatternMain",
+            "projectName": "designing_patterns_cab13c0e"
+        }
+    ]
+}
